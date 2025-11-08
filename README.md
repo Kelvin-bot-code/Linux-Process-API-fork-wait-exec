@@ -52,7 +52,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 
 <img width="939" height="257" alt="Screenshot 2025-11-08 124740" src="https://github.com/user-attachments/assets/6e8d7cd7-2671-41f1-b10e-7092a39f1345" />
 
@@ -85,7 +85,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
 <img width="946" height="302" alt="image" src="https://github.com/user-attachments/assets/a2caa4b7-dd3a-4b51-bcd9-8a9377d27bf1" />
 
 
